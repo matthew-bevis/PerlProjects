@@ -1,0 +1,5 @@
+exam1 100
+exam2 100
+asg1 100
+asg2 100
+asg3 100

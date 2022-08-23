@@ -1,0 +1,3 @@
+Name                  StuID exam1 exam2  asg1  asg2  asg3 average
+--------------------- ----- ----- ----- ----- ----- ----- -------
+Washington, George    12345exam1 75exam1 75exam1 75exam1 75exam1 75exam1 75asg3 80asg3 80asg3 80asg3 80asg3 80asg3 80Jefferson, Thomas     46813exam1 80exam1 80exam1 80exam1 80exam1 80exam1 80asg3 90asg3 90asg3 90asg3 90asg3 90asg3 90Adams, John           54321exam1 85exam1 85exam1 85exam1 85exam1 85exam1 85asg3 60asg3 60asg3 60asg3 60asg3 60asg3 60Monroe, James         55555exam1 65exam1 65exam1 65exam1 65exam1 65exam1 65asg3 95asg3 95asg3 95asg3 95asg3 95asg3 95Madison, James        99999exam1 90exam1 90exam1 90exam1 90exam1 90exam1 90exam2 70exam2 70exam2 70exam2 70exam2 70exam2 70

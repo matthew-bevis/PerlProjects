@@ -1,0 +1,8 @@
+#!/usr/bin/perl -w
+
+use strict;
+
+# This line will print a hello world line.
+print "Hello world!\n";
+
+exit 0;
