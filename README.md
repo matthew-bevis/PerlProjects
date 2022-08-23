@@ -1,2 +1,2 @@
 # PerlProjects
-#All text files were for testing purposes only.
+All text files were for testing purposes only.
